@@ -8,15 +8,7 @@
     "display": "standalone",
     "icons": [
       {
-        "src": "/home-94.png",
-        "sizes": "94x94"
-      },
-      {
-        "src": "/home-188.png",
-        "sizes": "188x188"
-      },
-      {
-        "src": "/home-282.png",
+        "src": "/home.svg",
         "sizes": "any"
       }
     ]
